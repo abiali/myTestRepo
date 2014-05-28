@@ -14,6 +14,7 @@ namespace TestClassLib
         {
             System.Console.WriteLine("Hello, Universe!");
             System.Console.WriteLine("Hello, Universe!");
+            System.Console.WriteLine("Hello there, crazy lady! How you doing? ;)");
         }
 
     }
