@@ -13,6 +13,7 @@ namespace TestClassLib
         public static void Main()
         {
             System.Console.WriteLine("Hello, Universe!");
+            System.Console.WriteLine("Hello, Universe!");
         }
 
     }
